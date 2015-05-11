@@ -20,8 +20,8 @@ löschen und bearbeiten kann der der gepostet hat und admin
 
 
 ####Anwendungslogik: 
-am ende des tages wird beliebtestes ausgezählt und rangliste hochgepackt
-fragen die häufiger gestellt werden, werden zusammengepackt und hervorgehoben
-zutaten für rezepte auswählen können(zb ich hab diese zutaten, was kann ich daraus herstellen?)
+am ende des tages wird beliebtestes ausgezählt und rangliste hochgepackt  
+fragen die häufiger gestellt werden, werden zusammengepackt und hervorgehoben  
+zutaten für rezepte auswählen können(zb ich hab diese zutaten, was kann ich daraus herstellen?)   
 
 
