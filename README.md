@@ -19,14 +19,8 @@ man kann liken
 löschen und bearbeiten kann der der gepostet hat und admin
 
 
-Anwendungslogik: am ende des tages wird beliebtestes ausgezählt und rangliste hochgepackt
+####Anwendungslogik: am ende des tages wird beliebtestes ausgezählt und rangliste hochgepackt
                   fragen die häufiger gestellt werden, werden zusammengepackt und hervorgehoben
+                  zutaten für rezepte auswählen können(zb ich hab diese zutaten, was kann ich daraus herstellen?)
 
 
-
-##Exposé2
-
-Zeitungsartikelrangliste
-
-Wollten Sie nicht auch schon immer auf einen Schlag sehen, welcher Artikel es wert ist ihn sich näher durchzulesen? Sie haben kaum zeit zu mittag zu essen und müssen sich durch interessante schlagzeilen durch einen langweiligen bericht quälen? 
-NewsRank ist die Lösung!! auf einen Schlag sehen sie, welcher artikel an diesem tag am häufigsten gelesen und kommentiert wurde und wissen, was man wissen muss und was man überlesen darf.
