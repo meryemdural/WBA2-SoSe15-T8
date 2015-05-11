@@ -5,9 +5,8 @@ WBA 2 SoSe15 Team 8 (Meryem Dural, Aylin Mengi, Aziz Kilic)
 Datei "A1.js"
 
 ##Exposé
-Exposé
 
-
+###Cancagramm
 Krebs-Hilfe-für-Kinder-App
 
 eine Website/ App mit der Kinder an ihre täglichen Medikamente erinnert werden und aufgefordert werden ein Selfie-Video von sich zu drehen und dieses zu posten.
